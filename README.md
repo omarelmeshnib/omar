@@ -1,2 +1,4 @@
-# omar
-This Is My First App
+## omar
+**This Is My First App**
+
+# important notes
